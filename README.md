@@ -86,4 +86,4 @@ This course is designed to provide a comprehensive learning path for individuals
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/your-username/web-mobile-development.git
+   git clone https://github.com/Ahmadjajja/SMIT-Web-and-Mobile-Batch7
