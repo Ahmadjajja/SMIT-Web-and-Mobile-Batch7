@@ -1,6 +1,6 @@
 # Web & Mobile Application Development
 Welcome to the Web & Mobile Application Development repository! This repository contains course materials, code examples, and resources for the SMIT (Saylani Mass IT Training Program) course on Web & Mobile Application Development. 
-
+## Overview
 This course is designed to provide a comprehensive learning path for individuals interested in becoming proficient in both web and mobile application development. The curriculum covers front-end and back-end technologies, as well as essential tools and best practices in the industry.
 
 ## Instructor
