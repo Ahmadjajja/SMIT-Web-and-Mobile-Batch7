@@ -1,0 +1,6 @@
+Most important things to note :
+
+1- typing speed should be 100 wpm till end of course.
+2- we have to solve minimum 200 leetcode question in javascript
+3- linkedin account - you must have to write 1 post a week.
+4- github account - you must have to push everyday task on github.
