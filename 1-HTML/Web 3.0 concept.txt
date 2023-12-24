@@ -1,0 +1,12 @@
+Web 1.0    ==========>  read
+Web 2.0    ==========>  read & write   	  (Data stored at centralized place)
+Web 3.0    ==========>  read, write & own (Data stored at decentralized place)
+
+How web 3.0 work?
+
+Here cryptography technique used.
+
+user-----------------------------web-------------------------------------servers (nodes) at decentralized place
+private key                    data created as in-accessible form        
+
+others users must have public key of specific user to get that data.
