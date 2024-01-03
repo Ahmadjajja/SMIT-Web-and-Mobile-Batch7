@@ -1,0 +1,18 @@
+Assignment#01
+
+Dear Students / Brothers.
+Web And Mobile Application Development Batch 07 2023-24
+
+Requirements:
+
+1- Please create the exactly same HTML structure like (Home.jpg,Menu.jpg,AbouUs.jpg,ContactUs.jpg,Timing.jpg attach in same folder)
+2- Use the shared assets.
+3- Please deploy into surge, and create online link
+4- Submit the assignment at link below
+
+
+(How to deploy on Surge - https://www.youtube.com/watch?v=rCfs9mRbp5E)
+
+
+Deadline: 07/01/2024
+Submit: https://forms.gle/8c7CbqwacfqPnnXe7

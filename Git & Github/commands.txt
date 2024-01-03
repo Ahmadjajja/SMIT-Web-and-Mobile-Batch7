@@ -1,8 +1,8 @@
 Git & GitHub step by step process:
 
-1- download git from https://git-scm.com/downloads and install
+1- download git from https://git-scm.com/downloads and install             Wifi Name --> student : Student@147
 
-2- Run "git" command in cmd to see git is installed or not.
+2- Run "git" command in cmd to see git is installed or not.       Run-as-administer pass : Lab@786, PC-Dot@786
 
 3- Give user name & email to git using :
        a - Open cmd through run as administrator.
