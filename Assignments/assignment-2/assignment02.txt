@@ -1,0 +1,24 @@
+📢 Announcement 📢
+
+- Assignment: 02
+- Start Date: 11/01/2024 
+- Due Date: 17/01/2024
+
+Hello Students,
+
+We are excited to announce a new assignment for you to work on. You will be developing a website using provided designs. We want you to create the assignment as shown in the design to the best of your ability.
+
+We encourage you to put your best effort into this assignment and use the design as a guide to make a visually appealing website. Remember, the more effort you put into this assignment, the more benefits you will reap in the future.
+
+So let's get started! We can't wait to see what you come up with.
+
+ Instructions to be strictly followed. 
+
+1. Zero grade for plagiarism (copy/ cheating) and late submissions.
+2. Deploy on Netlify, Surge, Github-pages or any other platform
+
+
+
+Submission Form link will be share soon
+
+Good Luck
