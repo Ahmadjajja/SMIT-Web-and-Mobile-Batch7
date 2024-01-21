@@ -1,0 +1,5 @@
+We covered these topic from w3schools : https://www.w3schools.com/css/
+Introduction
+Selectors
+Color
+Background Color
