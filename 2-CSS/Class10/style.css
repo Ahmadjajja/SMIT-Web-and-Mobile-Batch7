@@ -1,0 +1,22 @@
+.sameBackground {
+  background-color: green;
+  background-image: url("./coding.jpg");
+  /* background-repeat: no-repeat; */
+  /* background-position: left bottom; */
+  /* background-attachment: fixed; */
+  background-size: cover;
+
+  /* background: green url("./coding.jpg") no-repeat right top; */
+}
+p {
+  background-color: green;
+}
+#first {
+  opacity: 0.8;
+}
+/* #second {
+  opacity: 0.5;
+}
+#third {
+  opacity: 0.3;
+} */
