@@ -1,0 +1,21 @@
+h1 {
+  border: 10px red solid;
+  outline: 2px green ridge;
+  outline-offset: 10px;
+  text-align: center;
+  width: 500px;
+  padding: 50px;
+  margin: 50px;
+  box-sizing: border-box;
+}
+h2 {
+  border: 10px red solid;
+  text-align: center;
+  max-width: 300px;
+  min-height: 50px;
+  max-height: 500px;
+  padding: 50px;
+  margin: 50px;
+  overflow: scroll;
+  /* box-sizing: border-box; */
+}
