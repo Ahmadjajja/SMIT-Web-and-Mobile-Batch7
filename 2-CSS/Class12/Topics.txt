@@ -1,4 +1,4 @@
-Topics that we covered today from w3schools are :
-1- CSS Text
-2- CSS Fonts
-3- CSS Icons
+Topics that we covered today on w3schools are : 
+1- CSS Text -> https://www.w3schools.com/css/css_text.asp
+2- CSS Fonts-> https://www.w3schools.com/css/css_font.asp
+3- CSS Icons-> https://www.w3schools.com/css/css_icons.asp
