@@ -1,0 +1,4 @@
+Topics that we covered today from w3schools are :
+1- CSS Text
+2- CSS Fonts
+3- CSS Icons
