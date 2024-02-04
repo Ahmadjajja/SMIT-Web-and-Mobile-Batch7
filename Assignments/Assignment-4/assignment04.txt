@@ -1,7 +1,7 @@
-Assignment#03
+Assignment#04
 
 Dear Students / Brothers.
-Web Designing Crash Course
+Web and Mobile App Development Batch 7
 
 Requirements:
 
@@ -9,11 +9,9 @@ Requirements:
 2- Use the assets from https://drive.google.com/drive/u/0/folders/1BRjMKIarMFs2WJTSDQkuim5VCAw-UuHt
 3- Please deploy into surge, create online link and add link in submission form
 4- Push code on GitHub, and add link in submission form
-5- Submit the assignment at link below
+5- Post on linkedin and submit that post URL in submission form
+5- Submition URL Will be shared soon.
 
 
-(How to deploy on Surge - https://www.youtube.com/watch?v=rCfs9mRbp5E)
-
-Deadline: 26 Aug, 2023
-
-Submit for Section-A: https://forms.gle/6EBdryGzpKMVm1zt5
+Deadline: 8 feb, 2024
+Submission URL : share soon.
