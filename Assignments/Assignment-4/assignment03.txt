@@ -1,0 +1,19 @@
+Assignment#03
+
+Dear Students / Brothers.
+Web Designing Crash Course
+
+Requirements:
+
+1- Please create the exactly same HTML structure like attach in same folder.
+2- Use the assets from https://drive.google.com/drive/u/0/folders/1BRjMKIarMFs2WJTSDQkuim5VCAw-UuHt
+3- Please deploy into surge, create online link and add link in submission form
+4- Push code on GitHub, and add link in submission form
+5- Submit the assignment at link below
+
+
+(How to deploy on Surge - https://www.youtube.com/watch?v=rCfs9mRbp5E)
+
+Deadline: 26 Aug, 2023
+
+Submit for Section-A: https://forms.gle/6EBdryGzpKMVm1zt5
