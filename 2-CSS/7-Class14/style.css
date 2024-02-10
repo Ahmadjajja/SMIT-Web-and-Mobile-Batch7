@@ -1,0 +1,25 @@
+/* There are four state of anker tag */
+/* 1 */
+a:link{
+    color: green;
+    text-decoration: none;
+}
+
+/* 2 */
+
+a:visited{
+    color: black;
+}
+
+/* 3 */
+
+a:hover{
+    color: pink;
+    font-size: 40px;
+}
+
+/* 4 */
+
+a:active{
+    color: blue;
+}
