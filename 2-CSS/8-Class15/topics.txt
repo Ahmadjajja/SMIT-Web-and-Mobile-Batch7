@@ -1,0 +1,26 @@
+1- position     -> https://www.w3schools.com/css/css_positioning.asp
+There are 5 types of position properties in css:
+
+a) static   
+    -> default property (left, right, top, bottom properties don' work)
+
+b) relative 
+    -> move element from its exact location to other location
+    -> It leaves a gap on it's origional location
+    -> movement of this element doesn't effect other elements positions
+    -> left, right, top, bottom properties work here
+
+c) fixed
+    -> move element according to the viewport
+    -> It doesn't leave a gap on it's origional location
+    -> movement of this element doesn't effect other elements positions
+    -> left, right, top, bottom properties work here
+    
+d) absolute
+c) sticky
+
+
+
+2- z-index      -> https://www.w3schools.com/css/css_z-index.asp
+3- overflow     -> https://www.w3schools.com/css/css_overflow.asp
+4- inline-block -> https://www.w3schools.com/css/css_inline-block.asp
