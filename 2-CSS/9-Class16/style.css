@@ -1,0 +1,7 @@
+#firstDiv{
+    border: 3px solid red;
+}
+#firstDiv + p{
+    background-color: green;
+    color: white;
+}

@@ -1,0 +1,6 @@
+1- CSS Float                  -> https://www.w3schools.com/css/css_float.asp
+2- CSS Align                  -> https://www.w3schools.com/css/css_align.asp
+3- CSS Combinators            -> https://www.w3schools.com/css/css_combinators.asp
+4- CSS Pseudo-classes         -> https://www.w3schools.com/css/css_pseudo_classes.asp
+5- CSS Pseudo-elements        -> https://www.w3schools.com/css/css_pseudo_elements.asp
+6- CSS Opacity / Transparency -> https://www.w3schools.com/css/css_image_transparency.asp
