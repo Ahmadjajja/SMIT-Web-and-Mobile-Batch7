@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title>Document</title>
+    <style>
+        .grid-container {
+            background-color: antiquewhite;
+            display: flex;
+            flex-wrap: wrap;
+
+            /* display: grid; */
+            /* grid-template-columns: 100px 100px 100px; */
+            /* Three columns each 100px wide */
+            /* grid-template-rows: 50px 50px; */
+            /* Two rows each 50px tall */
+            /* gap: 10px; */
+            /* Spacing between grid items */
+            /* width: 600px; */
+            /* height: 300px; */
+        }
+
+        .grid-item {
+            background-color: brown;
+            color: white;
+            width: 19vw;
+            order: -1;
+            
+        }
+        .grid-ite {
+            background-color: greenyellow;
+            color: black;
+            width: 19vw;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="grid-container">
+        <div class="grid-item">poison</div>
+        <div class="grid-ite">water</div>
+        <div class="grid-item">poison</div>
+        <div class="grid-ite">water</div>
+        <div class="grid-item">poison</div>
+        <div class="grid-ite">water</div>
+        <div class="grid-item">poison</div>
+        <div class="grid-ite">water</div>
+        <div class="grid-item">poison</div>
+        <div class="grid-ite">water</div>
+    </div>
+</body>
+
+</html>
