@@ -1,0 +1,5 @@
+How can we link bootstrap in our project?
+- There are three methods that we can use:
+    1- CDN
+    2- Download bootstrap code in your project, then connect with your project
+    3- NPM - We will understand & use it in react.js / next.js
