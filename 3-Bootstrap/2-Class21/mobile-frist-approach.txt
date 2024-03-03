@@ -1,0 +1,8 @@
+Problem is we need to understand what is mobile first approach?
+
+
+B1 =====> B2 ======> B3 ======> B4 =====> B5
+
+
+B1(Red) =====> B2 ======> B3(green) ======> B4 =====> B5
+
