@@ -1,0 +1,19 @@
+1. Alerts
+2. Variables for Strings
+3. Variables for Numbers
+4. Variable Names Legal and Illegal
+5. Math Expressions: familiar operators
+6. Math Expressions: unfamiliar operators
+7. Math Expressions: eliminating ambiguity
+8. Concatenating text strings
+9. Prompts
+10. if statements
+11. Comparison operators
+12. if...else and else if statements
+13. Testing sets of conditions
+14. if statements nested
+15. Arrays
+16. Arrays: adding and removing elements
+17. Arrays: removing, inserting, and extracting elements
+18. for loops
+19. for loops: flags, Booleans, array length, and breaks
