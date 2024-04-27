@@ -13,6 +13,7 @@ let person = {
 }
 
 
+
 // console.log("person -> ", person)
 // console.log("person.name -> ", person.name)
 // console.log("person.education -> ", person.education)
