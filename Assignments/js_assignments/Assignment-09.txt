@@ -1,0 +1,41 @@
+Dear students,
+
+I hope this message finds you well. As part of our programming curriculum, I am pleased to announce your next assignment, which focuses on JavaScript string manipulation. This assignment will help you strengthen your skills in working with strings and enhance your problem-solving abilities.
+
+Assignment Details
+Deadline May 01, 2024
+
+Instructions
+Write JavaScript functions to solve the following string problems
+
+a) Return the length of a given string.
+b) Concatenate two strings together.
+c) Determine if a given string is empty.
+d) Count the number of vowels in a string.
+e) Reverse a given string.
+f) Check if a string is a palindrome.
+g) Convert a string to uppercase.
+h) Find the first occurrence of a given character in a string.
+i) Replace all occurrences of a given character in a string with another character.
+j) Trim leading and trailing whitespace from a string.
+k) Count the number of words in a string.
+l) Check if a string contains only numeric characters.
+m) Check if a string is a valid email address.
+n) Extract the domain name from a URL string.
+o) Convert a string into title case (the first letter of each word capitalized).
+p) Remove all non-alphabetic characters from a string.
+q) Check if a string is a valid palindrome permutation (ignoring spaces).
+r) Check if a string is an anagram of another string.
+s) Find the longest word in a string.
+t) Perform string compression by replacing repeated characters with the character followed by the count.
+
+Write a clear and concise JavaScript code for each problem.
+
+Test your functions with different input cases to ensure correctness.
+
+Submit your JavaScript file containing all the function implementations.
+
+Submission
+Please submit your JavaScript file via httpsforms.glep21dVKHArjhhqe1C7 no later than May 01, 2024. Late submissions will not be accepted.
+
+Feel free to reach out to me if you have any questions or need clarification. Good luck, and I look forward to reviewing your solutions!
