@@ -1,0 +1,56 @@
+Assignment 10: JavaScript Object
+
+In this assignment, you will delve into the world of JavaScript objects and explore various concepts and techniques related to working with objects. By completing these tasks, you will develop a solid understanding of object creation, properties, methods, iteration, comparison, nesting, prototypes, serialization, destructuring, property enumeration, inheritance, and privacy.
+
+Task 1: Object Creation
+
+Create an empty object and assign it to a variable.
+Create an object with properties for name, age, and profession.
+Task 2: Object Properties
+
+Access and print the values of properties from an object.
+Modify the value of a property in an object.
+Add a new property to an existing object.
+Task 3: Object Methods
+
+Create an object method that prints a message to the console.
+Create a method that calculates and returns a value based on object properties.
+Task 4: Object Iteration
+
+Iterate over the properties of an object and print their values.
+Iterate over the properties of an object and perform a specific action for each property.
+Task 5: Object Comparison
+
+Compare two objects to check if they have the same properties and values.
+Compare two objects to check if they refer to the same object in memory.
+Task 6: Object Nesting
+
+Create an object that contains another object as one of its properties.
+Access and modify properties of a nested object.
+Task 7: Object Prototypes
+
+Create a prototype object and use it to create multiple instances of objects.
+Add a method to the prototype object and observe its effect on the instances.
+Task 8: Object Serialization
+
+Convert an object to a JSON string using JSON.stringify().
+Parse a JSON string and convert it back to an object using JSON.parse().
+Task 9: Object Destructuring
+
+Use object destructuring to extract specific properties from an object.
+Task 10: Object Property Enumeration
+
+Use Object.keys() to get an array of all the property names of an object.
+Task 11: Object Inheritance
+
+Create a parent object and a child object that inherits properties and methods from the parent.
+Task 12: Object Privacy
+
+Create private properties in an object using closures or symbols.
+Complete these tasks in JavaScript and provide the code solutions for each task. Along with the code, include comments that explain your approach and any observations you made during the process.
+
+Remember to test your code and ensure it produces the expected results. Feel free to explore further and add your own creative touch to the solutions. Good luck and have fun mastering JavaScript objects!
+
+
+Submission
+Please submit your JavaScript file via "URL" no later than May 10, 2024. Late submissions will not be accepted.
