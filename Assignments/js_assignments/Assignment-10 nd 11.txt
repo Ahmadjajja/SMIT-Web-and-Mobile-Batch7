@@ -1,3 +1,5 @@
+Dear students,
+
 Assignment 10: JavaScript Object
 
 In this assignment, you will delve into the world of JavaScript objects and explore various concepts and techniques related to working with objects. By completing these tasks, you will develop a solid understanding of object creation, properties, methods, iteration, comparison, nesting, prototypes, serialization, destructuring, property enumeration, inheritance, and privacy.
@@ -47,10 +49,18 @@ Create a parent object and a child object that inherits properties and methods f
 Task 12: Object Privacy
 
 Create private properties in an object using closures or symbols.
+
 Complete these tasks in JavaScript and provide the code solutions for each task. Along with the code, include comments that explain your approach and any observations you made during the process.
 
 Remember to test your code and ensure it produces the expected results. Feel free to explore further and add your own creative touch to the solutions. Good luck and have fun mastering JavaScript objects!
 
+Assignment 11: JavaScript Object
+Implement all JavaScript basic method of strings, arrays, numbers, maths, objects, dates. 
+Note! You can follow below given cheatsheet of JavaScript.
 
-Submission
-Please submit your JavaScript file via "URL" no later than May 10, 2024. Late submissions will not be accepted.
+Submission:
+Assignment10:  https://forms.gle/iCB5z57gkpQkxaXt8
+Assignment11:  https://forms.gle/iMG72e25xn7vKWhR8
+Deadline: May 17, 2024
+
+Feel free to reach out to me if you have any questions or need clarification. Good luck, and I look forward to reviewing your solutions!
