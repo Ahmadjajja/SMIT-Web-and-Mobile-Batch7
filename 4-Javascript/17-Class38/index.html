@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <!-- <form onsubmit="checkAddress('email');">
+        Email:
+        <input type="email" id="email">
+        Password:
+        <input type="password" id="password">
+        <input type="submit" value="Submit">
+    </form> -->
+    <form>
+        ZIP:<br>
+        <input type="text" id="zip" onBlur="fillCity();"><br>
+        City:<br>
+        <input type="text" id="city">
+    </form>
+
+
+    <!-- <p id="slowLoris">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae exercitationem animi sit provident illo vel?
+        <a href="javascript:void(0);" onClick="expandLoris();"><em>Click for more.</em></a>
+    </p> -->
+
+
+    <img src="./OIP.jpeg" id="ugly1" onClick="makeInvisible();" style="cursor: pointer;">
+    <img src="./OIP.jpeg" id="ugly2" style="cursor: pointer; border: 2px red solid;">
+    <img src="./OIP.jpeg" id="ugly3" onClick="makeInvisible();" style="cursor: pointer;">
+
+
+
+    <script>
+        function makeInvisible() {
+            document.getElementById("ugly1").style.visibility = "hidden";
+        }
+
+        function expandLoris() {
+            let loremText = "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minima esse enim illo iusto saepe corrupti voluptate quasi ad, nihil deserunt cumque aut, optio nobis ipsa. Possimus quaerat consequuntur nemo dolor sit corporis ab in magnam modi enim nobis perferendis repellendus iusto laudantium cumque, aperiam temporibus corrupti reprehenderit eius. Cupiditate, odit!"
+            document.getElementById("slowLoris").innerHTML = loremText
+        }
+        function fillCity() {
+            let zipCode = document.getElementById("zip").value
+            console.log("zip code", zipCode)
+            if (zipCode == 38000) {
+                document.getElementById("city").value = "Faisalabad"
+            } else if (zipCode == 39000) {
+                document.getElementById("city").value = "Lahore"
+            } else {
+                document.getElementById("city").value = "Invalid Zip Code!!"
+            }
+        }
+        function checkAddress(emailId) {
+            let val = document.getElementById(emailId).value
+            if (val.trim() == "") {
+                alert("Enter email")
+            }
+            if (document.getElementById("password").value.length < 8) {
+                alert("Password must be 8 character or above")
+            }
+
+        }
+    </script>
+</body>
+
+</html>
