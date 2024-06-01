@@ -1,0 +1,38 @@
+	Name		LeetCode Questions
+
+1. Muhammad Hanzla	-	170
+2. Shehzad Husain	-	70
+3. Muhammad Usman	-	51
+4. Muhammad Umar	-	46 
+5. Abdul Munnam		-	36
+6. Muhammad Arslan	-	32
+7. Muhammad Shehzad	-	25
+8. Muhammad Shehar yar  -	25
+9. Muhammad Asad	-	20
+10.Muhammad Boota	-	20
+11.Abdul moeed		-	17
+12.Muhammad Zubair      -       12
+13.Muhammad Arslan	-	11
+14.Muhammad Hassan(2214)-	11
+15.Hasnain haider	-	10
+16.Muhammad Umair	-	10
+17.Muhammad Binyamin	-	7
+18.Muhammad Usama	-	5 
+19.Abdullah Tayyab	-	2
+20.Muhammad Ibrahim	-	2
+21.Hafiz Irtaza		-	2
+
+
+22.Muhammad Adil	-	0
+23.Muhammad Ahmad	-	0
+24.Abdur Rehman		-	0
+25.Muhammad hassan umar	-	0
+21.Muaz Awais 		-	0
+21.Muhammad hassan	-	0
+21.Abdullah(193408)	-	0
+21.Muhammad Akmal	-	0
+21.Muhammad Saad	-	0
+21.Danish Sartar	-	0
+21.Muhammad Bilal	-	0
+21.Muhammad Zohaib	-	0
+22.Muhammad Talha	-	0
