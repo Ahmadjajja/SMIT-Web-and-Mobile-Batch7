@@ -1,38 +1,46 @@
 	Name		LeetCode Questions
 
-1. Muhammad Hanzla	-	170
-2. Shehzad Husain	-	70
-3. Muhammad Usman	-	51
-4. Muhammad Umar	-	46 
-5. Abdul Munnam		-	36
-6. Muhammad Arslan	-	32
+1. Muhammad Hanzla	-	170 remaining
+2. Shehzad Husain	-	70 remaining
+3. Muhammad Usman	-	59
+4. Muhammad Umar	-	53 
+5. Abdul Munnam		-	50
+6. Muhammad Arslan	-	32 remaining
 7. Muhammad Shehzad	-	25
-8. Muhammad Shehar yar  -	25
-9. Muhammad Asad	-	20
-10.Muhammad Boota	-	20
-11.Abdul moeed		-	17
-12.Muhammad Zubair      -       12
-13.Muhammad Arslan	-	11
-14.Muhammad Hassan(2214)-	11
-15.Hasnain haider	-	10
-16.Muhammad Umair	-	10
-17.Muhammad Binyamin	-	7
-18.Muhammad Usama	-	5 
-19.Abdullah Tayyab	-	2
-20.Muhammad Ibrahim	-	2
-21.Hafiz Irtaza		-	2
+8. Muhammad Shehar yar  -	25 remaining
+9. Muhammad Asad	-	30 
+10.Muhammad Boota	-	20 remaining
+11.Abdul moeed		-	25 
+12.Muhammad Zubair      -       29  
+13.Muhammad Arslan	-	11 remaining
+14.Muhammad Hassan(2214)-	19 
+15.Hasnain haider	-	17
+16.Muhammad Umair	-	15 solved 5 this week
+17.Muhammad Binyamin	-	11 solved 4 this week  
+18.Muhammad Usama	-	8  solved 3
+19.Abdullah Tayyab	-	8  solved 6 this week
+20.Muhammad Ibrahim	-	2  solved 0
+21.Hafiz Irtaza		-	9  
 
 
-22.Muhammad Adil	-	0
-23.Muhammad Ahmad	-	0
-24.Abdur Rehman		-	0
-25.Muhammad hassan umar	-	0
-21.Muaz Awais 		-	0
-21.Muhammad hassan	-	0
-21.Abdullah(193408)	-	0
-21.Muhammad Akmal	-	0
-21.Muhammad Saad	-	0
-21.Danish Sartar	-	0
-21.Muhammad Bilal	-	0
-21.Muhammad Zohaib	-	0
-22.Muhammad Talha	-	0
+22.Muhammad Adil	-	2 solved 2 this week
+23.Muhammad Ahmad	-	10
+24.Abdur Rehman1	-	0 remaining
+25.Muhammad hassan umar	-	0 remaining
+26.Muaz Awais 		-	7 
+27.Muhammad hassan	-	0 remaining
+28.Abdullah(193408)	-	5 solved 5 this week 
+29.Muhammad Akmal	-	6 solved 6 this week 
+30.Muhammad Saad	-	4 solved 4 this week 
+31.Danish Sartar	-	0 remaining
+32.Muhammad Bilal	-	0 remaining
+33.Muhammad Zohaib	-	0 remaining
+34.Muhammad Talha	-	0 remaining
+35.Muzammal Javed       -       4 solved 4 this week
+36.Sabir Ali  		-	10 
+37.Muhammad Umair	-	87
+38.Muhammad Mohsin Ali  - 	3
+39.Usama Sarwar         -	8
+40.Muhammad Arhum	-	42
+41.Arhum Naveed		-	0
+42.Abdul Rehman		-	4 solved 4 this week

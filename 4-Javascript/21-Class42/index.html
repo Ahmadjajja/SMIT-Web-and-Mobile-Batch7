@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- <h1>
+        hello everyone!
+    </h1>
+
+    <a id="github" href="https://github.com/Ahmadjajja">Ahmad's Github</a>
+
+    <h1>We are learning DOM(Document Object Model)</h1> -->
+    <div id="div">
+        <h1 id="heading1">Lorem ipsum dolor sit amet.</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur, id perferendis! Earum, odio sequi. Laborum.</p>
+        <p id="lastP">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque adipisci necessitatibus nostrum quibusdam autem eligendi.</p>
+        
+    </div>
+
+    <script>
+        // console.log(document.getElementById("github").hasAttribute("href")) // true
+        // console.log(document.getElementById("github").hasAttribute("class")) // false
+        // console.log(document.getElementById("github").getAttribute("href")) // https://github.com/Ahmadjajja
+        // // document.getElementById("github").setAttribute("href", "https://github.com/muazawais") // https://github.com/Ahmadjajja
+        // console.log(document.getElementById("github").getAttribute("href")) 
+        // console.log(document.getElementById("github").attributes) 
+
+        var heading = document.createElement("h1")
+        var textNode = document.createTextNode("Lorem ipsum dolor sit amet.")
+        heading.append(textNode)
+        heading.style.backgroundColor = "red"
+        console.log(heading)
+        document.getElementById("div").insertBefore(heading, document.getElementById("lastP"))
+
+
+
+
+        
+    </script>
+</body>
+</html>
