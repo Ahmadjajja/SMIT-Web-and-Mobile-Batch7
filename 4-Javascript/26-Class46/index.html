@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <!-- <form onSubmit="return checkForLastName();">
+        Please enter your last name.<br>
+        <input type="text" id="firstNameField">
+        <input type="text" id="lastNameField">
+        <input type="submit" value="Submit Form">
+    </form> -->
+
+
+    <form onSubmit="return checkForSelection();">
+        <select id="states">
+            <option value="" selected="selected">SELECT A STATE</option>
+            <option value="AL">Alabama</option>
+            <option value="AK">Alaska</option>
+            <option value="AZ">Arizona</option>
+            <option value="AR">Arkansas</option>
+        </select>&nbsp;&nbsp;
+        <input type="submit" value="Submit Form">
+    </form>
+
+
+    <script>
+        // function checkForLastName(e) {
+        //     let inputText = document.getElementById("lastNameField")
+        //     if (inputText.value.length == 0) {
+        //         alert("Please enter your lastname!")
+        //         inputText.focus()
+        //         inputText.style.background = "yellow";
+
+        //         return false
+        //     }
+        // }
+
+
+        function checkForSelection() {
+            // console.log(document.getElementById("states").selectedIndex);
+            // return false;
+            if (document.getElementById("states").selectedIndex === 0) {
+                alert("Please select a state.");
+                return false;   // please do not submit the form
+
+            }
+        }
+
+    </script>
+</body>
+
+</html>
