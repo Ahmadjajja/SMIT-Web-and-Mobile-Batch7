@@ -102,3 +102,5 @@ This repository contains materials for a JavaScript class covering the following
 - Closures 
 - Prototyping
 <hr/>
+  
+
