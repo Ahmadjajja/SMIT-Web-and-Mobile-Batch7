@@ -1,46 +1,46 @@
 	Name		LeetCode Questions
 
-1. Muhammad Hanzla	-	235
+1. Muhammad Hanzla	-	255
 2. Shehzad Husain	-	70 remaining
-3. Muhammad Usman	-	92
-4. Muhammad Umar	-	80
-5. Abdul Munnam		-	80
-6. Muhammad Arslan	-	42 remaining
-7. Muhammad Shehzad	-	37 remaining
-8. Muhammad Shehar yar  -	25 remaining
-9. Muhammad Asad	-	30 remaining
+3. Muhammad Usman	-	100
+4. Muhammad Umar	-	94
+5. Abdul Munnam		-	90
+6. Muhammad Arslan	-	46 
+7. Muhammad Shehzad	-	42 
+8. Muhammad Shehar yar  -	25 
+9. Muhammad Asad	-	80 
 10.Muhammad Boota	-	20 remaining
-11.Abdul moeed		-	48 
-12.Muhammad Zubair      -       39  
+11.Abdul moeed		-	60 
+12.Muhammad Zubair      -       49  
 13.Muhammad Arslan	-	38
-14.Muhammad Hassan(2214)-	47 
-15.Hasnain haider	-	42
+14.Muhammad Hassan(2214)-	56 
+15.Hasnain haider	-	53
 16.Muhammad Umair	-	15 remaining
-17.Muhammad Binyamin	-	21 
+17.Muhammad Binyamin	-	27 
 18.Muhammad Usama	-	21
-19.Abdullah Tayyab	-	26
-20.Muhammad Ibrahim	-	2  remaining
-21.Hafiz Irtaza		-	16 
+19.Abdullah Tayyab	-	26 remaining
+20.Muhammad Ibrahim	-	25  
+21.Hafiz Irtaza		-	29 
 
 
-22.Muhammad Adil	-	18 
+22.Muhammad Adil	-	22 
 23.Muhammad Ahmad	-	23 remaining
 24.Abdur Rehman1	-	0  remaining
-25.Muhammad hassan umar	-	10
+25.Muhammad hassan umar	-	15
 26.Muaz Awais 		-	18 remaining
 27.Muhammad hassan	-	0  remaining
-28.Abdullah(193408)	-	5  remaining
-29.Muhammad Akmal	-	20 remaining
+28.Abdullah(193408)	-	30
+29.Muhammad Akmal	-	29 remaining
 30.Muhammad Saad	-	25 
 31.Danish Sartar	-	0  remaining
 32.Muhammad Bilal	-	0  remaining
 33.Muhammad Zohaib	-	10
-34.Muhammad Talha	-	0  remaining
-35.Muzammal Javed       -       4  solved 4 this week
-36.Sabir Ali  		-	25
+34.Muhammad Talha	-	11
+35.Muzammal Javed       -       35
+36.Sabir Ali  		-	32
 37.Muhammad Umair	-	110
 38.Muhammad Mohsin Ali  - 	3  remaining
-39.Usama Sarwar         -	16
+39.Usama Sarwar         -	21
 40.Muhammad Arhum	-	64
 41.Arhum Naveed		-	0  remaining
 42.Abdul Rehman		-	15 remaining
