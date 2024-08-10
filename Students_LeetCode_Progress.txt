@@ -1,49 +1,49 @@
 	Name		LeetCode Questions
 
-1. Muhammad Hanzla	-	255
+1. Muhammad Hanzla	-	301
 2. Shehzad Husain	-	70 remaining
-3. Muhammad Usman	-	125
+3. Muhammad Usman	-	135
 4. Muhammad Umar	-	113
-5. Abdul Munnam		-	121
-6. Muhammad Arslan	-	71 
+5. Abdul Munnam		-	136
+6. Muhammad Arslan	-	100 
 7. Muhammad Shehzad	-	54 
 8. Muhammad Shehar yar  -	25 
 9. Muhammad Asad	-	80 
 10.Muhammad Boota	-	20 remaining
-11.Abdul moeed		-	85 
-12.Muhammad Zubair      -       75  
-13.Muhammad Arslan	-	43
-14.Muhammad Hassan(2214)-	73 
+11.Abdul moeed		-	95 
+12.Muhammad Zubair      -       92  
+13.Muhammad Arslan	-	63
+14.Muhammad Hassan(2214)-	82 
 15.Hasnain haider	-	76
 16.Muhammad Umair	-	15 remaining
-17.Muhammad Binyamin	-	35 
+17.Muhammad Binyamin	-	42 
 18.Muhammad Usama	-	30
 19.Abdullah Tayyab	-	28
 20.Muhammad Ibrahim	-	35  
-21.Hafiz Irtaza		-	35
+21.Hafiz Irtaza		-	40
 
 
 22.Muhammad Adil	-	27 
-23.Muhammad Ahmad	-	38
+23.Muhammad Ahmad	-	44
 24.Abdur Rehman1	-	16
 25.Muhammad hassan umar	-	20
 26.Muaz Awais 		-	21 remaining
 27.Muhammad hassan	-	0  remaining
 28.Abdullah(193408)	-	38
-29.Muhammad Akmal	-	29 remaining
+29.Muhammad Akmal	-	39
 30.Muhammad Saad	-	32 
-31.Danish Sartar	-	0  remaining
+31.Danish Sartar	-	0  re2maining
 32.Muhammad Bilal	-	0  remaining
 33.Muhammad Zohaib	-	10
 34.Muhammad Talha	-	11
-35.Muzammal Javed       -       40
+35.Muzammal Javed       -       59
 36.Sabir Ali  		-	32
-37.Muhammad Umair	-	132
+37.Muhammad Umair	-	146
 38.Muhammad Mohsin Ali  - 	3  remaining
-39.Usama Sarwar         -	44
-40.Muhammad Arhum	-	64
+39.Usama Sarwar         -	49
+40.Muhammad Arhum	-	92
 41.Arhum Naveed		-	0  remaining
-42.Abdul Rehman		-	30
+42.Abdul Rehman		-	36
 43.Ubaid Ullah		- 	25
 44.Abdullah Sajjad	- 	15
 45.Yasir Munir		-	19
